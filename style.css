@@ -1,0 +1,15 @@
+[data-active="true"] {
+    display: block;
+}
+
+[data-active="false"] {
+    display: none;
+}
+
+web-slide {
+    margin: auto
+}
+
+.hide {
+    display: none;
+}
